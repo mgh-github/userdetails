@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58970e5d-093f-408f-8c6f-524eb7925e3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/user_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_account/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_account/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,5 +42,11 @@
       <updated>1617346334591</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1617377405184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617377405184" />
   </component>
 </project>

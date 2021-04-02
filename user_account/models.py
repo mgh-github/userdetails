@@ -28,10 +28,10 @@ class User(models.Model):
         return self.Name
 
 
-class FilterChoice(models.Model):
-    Pending = models.BooleanField(default=False)
-    Confirmed = models.BooleanField(default=False)
-    Rejected = models.BooleanField(default=False)
-
-    def __str__(self):
-        return self.Pending
+# class FilterChoice(models.Model):
+#     Pending = models.BooleanField(default=False)
+#     Confirmed = models.BooleanField(default=False)
+#     Rejected = models.BooleanField(default=False)
+#
+#     def __str__(self):
+#         return self.Pending
